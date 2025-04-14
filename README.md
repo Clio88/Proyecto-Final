@@ -1,4 +1,4 @@
-![Banner](./45441eee882944d5099c5b8d1e08234a.png)
+![Banner](./45441eee882944d5099c5b8d1e08234a.jpg)
 # Proyecto-Final
 Bienvenido al repositorio para el Proyecto Final del Modulo II para el Diplomado de TE y MD, impartido por Act. Claudia Cristina Reyes Montes de Oca. Realizado por Alexa Clio Cruz Arce.
 Para el repositorio se utilizo Colab. 
